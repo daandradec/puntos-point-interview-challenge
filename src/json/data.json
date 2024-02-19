@@ -1,0 +1,29 @@
+{
+    "Noviembre":{
+        "clientes":81420,
+        "ventas-totales": 1100,
+        "monto-total": 70000000,
+        "cashback-acumulado":200000,
+        "facturado-01-11":120000,
+        "facturado-10-11":200000,
+        "facturado-20-11":0
+    },    
+    "Octubre":{
+        "clientes":81295,
+        "ventas-totales": 3800,
+        "monto-total": 170840000,
+        "cashback-acumulado":700000,
+        "facturado-01-11":100000,
+        "facturado-10-11":250000,
+        "facturado-20-11":100000
+    },
+    "Septiembre":{
+        "clientes":80995,
+        "ventas-totales": 4000,
+        "monto-total": 179850000,
+        "cashback-acumulado":450000,
+        "facturado-01-11":850000,
+        "facturado-10-11":950000,
+        "facturado-20-11":900000
+    }    
+}
